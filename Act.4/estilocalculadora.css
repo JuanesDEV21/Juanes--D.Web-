@@ -1,0 +1,352 @@
+.fondop
+{
+  
+    background-color: #11b4ac;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    background-position: center;
+    margin: -8px -8px;
+}
+
+.botn
+{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.889);
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+
+.cen
+{
+    text-align: center;
+    margin: -10px 0px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #225379b6;
+    padding: 40px 30px;
+}
+
+.as
+{
+    text-decoration: none;
+    margin-right: 70px;
+    margin-left: 70px;
+    color: black;
+}
+
+.botn a:hover
+{
+    background-color: rgba(240, 248, 255, 0.79);
+    color: rgba(129, 177, 189, 0.715);
+    border-radius: 10px;
+    padding:  10px;
+    margin: 60px ;
+}
+
+.fi
+{
+    margin-right: 2px;
+}
+
+.cont
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+    margin-top: 30px;
+    margin-left: 500px;
+    text-align: center;
+    border-radius: 10px;
+    border: 10px;
+    width: 470px;
+    height: 670px;
+    top: 10px;
+    bottom: 50px;
+    border: solid 5px rgb(194, 191, 191);
+    position: relative;
+}
+
+p
+{
+    font-size: 90px;
+    margin-left: -1px;
+    margin-top: 10px;
+    padding-top: 70px;
+    padding-left: 400px;
+    margin-bottom: -10px;
+    color: white;
+}
+
+#linea
+{
+    display: inline-block;
+    margin: 20px 14px;
+    margin-bottom: -5px;    
+}
+
+.ops
+{
+    background-color: rgb(194, 193, 193);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.ops2
+{
+    background-color: rgb(194, 193, 193);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.ops3
+{
+    background-color: rgb(194, 193, 193);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.ops4
+{
+    background-color: rgb(255, 140, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+}
+
+#linea1
+{
+    display: inline-block;
+    margin: 20px 14px;
+    margin-bottom: -5px;
+    color: white;
+}
+
+.num
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.num2
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.num3
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.num4
+{
+    background-color: rgb(255, 140, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+#linea2
+{
+    display: inline-block;
+    margin: 20px 14px;
+    margin-bottom: -5px;
+    color: white;
+}
+
+.nums
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.nums2
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.nums3
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.nums4
+{
+    background-color: rgb(255, 140, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+#linea3
+{
+    display: inline-block;
+    margin: 20px 14px;
+    margin-bottom: -5px;
+    color: white;
+}
+
+.numsa
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.numsa2
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.numsa3
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.numsa4
+{
+    background-color: rgb(255, 140, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+#linea4
+{
+    display: inline-block;
+    margin: 20px 14px;
+    color: white;
+}
+
+.numsas
+{
+    background-color: rgb(108, 106, 106);
+    width: 210px;
+    height: 80px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin-right: -7px;
+    margin-left: -12px;    
+}
+
+.numsas2
+{
+    background-color: rgb(108, 106, 106);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.numsas3
+{
+    background-color: rgb(255, 140, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.mov
+{
+    margin-right: 120px;   
+}
